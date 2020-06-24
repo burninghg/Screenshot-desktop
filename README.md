@@ -13,3 +13,9 @@ if you want this screen script to start when your pc starts, you can move this .
    
 also you should edit .bat file to the location where you put Createrfolderscreen.py 
 
+## Extra operation
+
+you need to install pyautogui module by using the following code
+```
+pip install pyautogui
+```
